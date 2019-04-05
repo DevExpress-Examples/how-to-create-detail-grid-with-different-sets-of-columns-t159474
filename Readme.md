@@ -2,7 +2,7 @@
 *Files to look at*:
 
 * [MainWindow.xaml](./CS/DetailDescriptorExample/MainWindow.xaml) (VB: [MainWindow.xaml](./VB/DetailDescriptorExample/MainWindow.xaml))
-* [MainWindow.xaml.cs](./CS/DetailDescriptorExample/MainWindow.xaml.cs) (VB: [MainWindow.xaml](./VB/DetailDescriptorExample/MainWindow.xaml))
+* [MainWindow.xaml.cs](./CS/DetailDescriptorExample/MainWindow.xaml.cs) (VB: [MainWindow.xaml.vb](./VB/DetailDescriptorExample/MainWindow.xaml.vb))
 * [ViewModel.cs](./CS/DetailDescriptorExample/ViewModel/ViewModel.cs) (VB: [ViewModel.vb](./VB/DetailDescriptorExample/ViewModel/ViewModel.vb))
 <!-- default file list end -->
 # How to create detail grid with different sets of columns
